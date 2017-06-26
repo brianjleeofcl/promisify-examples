@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^8.0.3",
+    "@types/request": "^0.0.44",
+    "request": "^2.81.0"
+  }
+}
